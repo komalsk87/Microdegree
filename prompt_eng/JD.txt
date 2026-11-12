@@ -1,0 +1,337 @@
+
+
+
+
+Lead Software Engineer - Regulatory Reporting
+Jersey City, NJ, United States
+Apply Now
+Job Information
+Job Identification
+210773540
+Job Category
+Software Engineering
+Business Unit
+Corporate Sector
+Posting Date
+09/07/2026, 07:32 AM
+Locations
+ 545 Washington Blvd, Jersey City, NJ, 07310, US
+Job Schedule
+Full time
+Base Pay/Salary
+Jersey City,NJ $156,750.00-$215,000.00
+Job Description
+We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.
+
+As a Lead Software Engineer at JPMorganChase within External Reporting and Financial Technology, you are an integral part of an agile team focused on using AI, automation, and modern engineering tools to build, evolve, and support the Last Mile Reporting platform architecture and infrastructure. As a core technical contributor, you will design scalable solutions, improve platform reliability, and help deliver trusted regulatory and financial reporting capabilities in a secure, stable, and efficient way.
+
+Job responsibilities
+
+Designs, builds, and improves Last Mile Reporting platform architecture and infrastructure using AI-assisted engineering, automation, and modern software development practices
+
+Develops secure, high-quality production code in mainstream programming languages such as Python, Java, and related technologies, and reviews and debugs code written by others
+
+Applies AI prompt engineering, agent-based workflows, and automation techniques to accelerate development, improve operational stability, and reduce recurring manual effort
+
+Partners with technology, product, and reporting stakeholders to evaluate architectural options, AI-enabled tools, data flows, controls, and integration patterns for regulatory and financial reporting solutions
+
+Leads adoption of new and emerging engineering practices, including AI-assisted development, prompt engineering, and agent building, while promoting secure and responsible technology use
+
+Adds to team culture of diversity, opportunity, inclusion, and respect
+
+ 
+
+Required qualifications, capabilities, and skills
+
+5+ years of relevant software engineering experience, including hands-on delivery and support of enterprise technology platforms
+
+Demonstrated experience building and supporting regulatory and/or financial reporting applications in production environments
+
+Strong understanding of application, platform, and data architecture, including scalable infrastructure, integration patterns, reliability, resiliency, and operational support
+
+Hands-on programming experience in Python, Java, or other mainstream programming languages, with the ability to design, build, test, and maintain high-quality code
+
+Hands-on practical experience delivering system design, application development, testing, deployment, monitoring, and operational stability for complex applications
+
+Practical experience using AI tools to improve software engineering productivity, code quality, documentation, testing, and platform operations
+
+Experience with AI prompt engineering, including the ability to create, refine, and evaluate prompts for engineering, documentation, analysis, and workflow automation use cases
+
+Experience designing or building AI-enabled workflows, assistants, or agents that support development, data analysis, reporting, or operational processes
+
+Strong understanding of cloud architecture and infrastructure, including AWS, Kubernetes, containerized deployment patterns, CI/CD, application resiliency, security, monitoring, and modern DevOps practices
+
+Strong SQL and data analysis skills, with an understanding of data modeling, reporting data flows, data quality, reconciliations, and controls
+
+Basic understanding of financial and regulatory concepts, including reporting requirements, controls, data lineage, and financial data interpretation
+
+ 
+
+Preferred qualifications, capabilities, and skills
+
+Hands-on experience with Axiom ControllerView or similar regulatory reporting platforms is a big plus
+
+Experience applying AI, machine learning, large language models, or agent frameworks to enterprise software engineering, reporting, or operations use cases
+
+Experience with financial services technology environments, regulatory change initiatives, audit/control processes, or enterprise reporting modernization
+
+Experience with Databricks or similar cloud-based data engineering and analytics platforms
+
+About Us
+JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+We offer a competitive total rewards package including base salary determined based on the role, experience, skill set and location. Those in eligible roles may receive commission-based pay and/or discretionary incentive compensation, paid in the form of cash and/or forfeitable equity, awarded in recognition of individual achievements and contributions. We also offer a range of benefits and programs to meet employee needs, based on eligibility. These benefits include comprehensive health care coverage, on-site health and wellness centers, a retirement savings plan, backup childcare, tuition reimbursement, mental health support, financial coaching and more. Additional details about total compensation and benefits will be provided during the hiring process. 
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans
+
+About the Team
+Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.
+Apply Now
+Similar Jobs
+
+Regulatory Capital Reporting & Analysis – Associate
+Brooklyn, NY, United States  Posted on 07/29/2026
+Lead regulatory capital reporting and stress testing for JPMorgan Chase within the Firmwide Regulatory Reporting and Analysis group.
+
+
+Pillar 3 Regulatory Capital Disclosures and RWA Reporting & Analysis - Vice President
+Newark, DE, United States and 1 more  Posted on 07/22/2026
+Lead Pillar 3 Regulatory Capital Disclosures and RWA Reporting & Analysis within Corporate Finance
+
+
+Lead Software Engineer - Data Engineer
+Jersey City, NJ, United States  Posted on 07/02/2026
+Design and run PySpark pipelines and own Lakehouse datasets on Apache Iceberg supporting high-visibility regulatory reporting.
+
+
+Lead Software Engineer
+Jersey City, NJ, United States  Posted on 07/21/2026
+Carry out critical tech solutions across multiple technical areas as an integral part of an agile team
+
+
+Skip to main content.
+
+
+
+Search Jobs - JPMC Candidate Experience page Careers
+
+Find Jobs
+Job title, skill, keyword
+Job title, skill, keyword
+
+Near Location
+City, state, country
+City, state, country
+
+Job search results 7318
+7318 Open Jobs
+
+Categories
+
+Posting Dates
+
+Posting Date
+Lead Software Engineer - Regulatory Reporting
+ Jersey City, NJ, United States
+TechnologySoftware Engineering
+Carry out critical tech solutions across multiple technical areas as an integral part of an agile team
+
+
+
+Salesforce CRM Software Engineer III
+ Jersey City, NJ, United States
+TechnologySoftware Engineering
+We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.
+
+
+
+Executive Administrative Assistant, Client Onboarding and Service
+ Singapore, Singapore
+AdministrationAdministrative Assistant
+Support senior leaders with complex scheduling, travel, expenses, and client meeting logistics in a fast-paced team.
+
+
+
+Lead Software Engineer - AI/ML Developer Lead
+ Plano, TX, United States
+TechnologySoftware Engineering
+Design, build, and maintain scalable machine learning platforms and infrastructure to support end-to-end ML workflows.
+
+
+
+Part Time (30 Hours) Associate Banker, Farmington Avenue Branch, Farmington, CT
+ Farmington, CT, United States
+Client ManagementAssociate Bankers
+As an Associate Banker, you will embody our commitment to hospitality and client care.
+
+
+
+Talent Network
+Didn't find the perfect job? Create a profile so we can help
+
+Join the Network
+Part Time (30 Hours) Associate Banker, East Hampton, East Hampton, NY
+ East Hampton, NY, United States
+Client ManagementAssociate Bankers
+As an Associate Banker, you will embody our commitment to hospitality and client care.
+
+
+
+Part Time (30 Hours) Associate Banker, Orange Plaza Branch, Middletown, NY
+ Middletown, NY, United States
+Client ManagementAssociate Bankers
+As an Associate Banker, you will embody our commitment to hospitality and client care.
+
+
+
+Tech Risk and Controls Lead
+ Jersey City, NJ, United States and 1 more
+TechnologyTechnology Risk & Services
+Lead in managing tech risks and controls, ensuring compliance and operational integrity in a dynamic risk landscape.
+
+
+
+Portfolio Financing Middle Office Associate
+ Newark, DE, United States
+OperationsTrading Services
+Join our team as a Trading Services Associate and contribute to driving impactful solutions in a dynamic environment. 
+
+
+
+Sr Lead Infrastructure Engineer
+ Plano, TX, United States
+TechnologyInfrastructure Engineering
+Build the agentic workflows and tooling that define the next generation of branch technology, using AI across the full stack.
+
+
+
+Director of Architecture - Data and AI
+ Palo Alto, CA, United States
+TechnologyArchitecture
+Drive innovative solutions while leading a specific area architecture and serving as a primary decision maker for your teams
+
+
+
+Product Controller - Payments External Reporting - Associate
+ Brooklyn, NY, United States
+FinanceController
+Lead external reporting for global payments, delivering regulatory reports, governance materials, and controls in a high impact role.
+
+
+
+Tech Risk & Controls Lead
+ NY, United States and 2 more
+TechnologyTechnology Risk & Services
+This SOC-Attestation Management role calls for a strong manager with experience leading the execution of global controls attestation audit engagements (SOC1, SOC2, ISAE 3402, AT-C 205). These attestation reports are delivered to thousands of the firm’s corporate clients and key regulators of the firm. Successful execution of responsibilities requires a candidate who has a strong client service orientation, is highly organized and demonstrates strong issue identification, problem solving, collaboration and communication skills, including ability to interact with senior management, external auditors and operate across multiple lines of business and corporate teams. Required experience includes at least 5 years of experience within a “Big Four” or top IT consulting firm, at least 2 of which are at Manager level - leading planning and/or executing IT Controls attestation (including SOC) audits.
+
+
+
+Finance & Business Management - Associate
+ Plano, TX, United States
+FinanceBusiness Management
+Promote workforce strategy, guide headcount planning, and shape real estate decisions that support growth and operational goals.
+
+
+
+Software Engineer II - Platform Engineer Databricks
+ Jersey City, NJ, United States
+TechnologySoftware Engineering
+Join an agile team that designs and delivers market-leading technology products in a secure and scalable way
+
+
+
+Tech Risk & Controls - Executive Director
+ Plano, TX, United States and 4 more
+TechnologyTechnology Risk & Services
+Lead the strategic development and implementation of technology risk management in a dynamic, evolving tech landscape.
+
+
+
+Senior Associate, Marketing Strategy – Auto Growth & Paid Channel Activation
+ Wilmington, DE, United States and 1 more
+Marketing & CommunicationsMarketing Strategy
+Lead digital marketing strategy and paid channel growth for Chase Auto, driving impactful campaigns and customer acquisition.
+
+
+
+Associate Relationship Banker - Indianapolis/Greenwood Areas - Indy Southeast
+ Indianapolis, IN, United States and 1 more
+Client ManagementAssoc Relationship Banker
+Deliver exceptional client experience as an Associate Relationship Banker, embodying our commitment to hospitality and client care.
+
+
+
+Compensation Analytics Vice President, Global Compensation
+ Jersey City, NJ, United States and 3 more
+Human ResourcesCompensation
+Transform complex data into clear, actionable insights for leaders—advancing fair, transparent pay practices.
+
+
+
+Regulatory Reporting Assurance - Vice President
+ LONDON, United Kingdom
+FinanceController
+Quality Assurance Regulatory Reporting Vice President
+
+
+
+Investment Banking – EMEA Media and Communications Advisory – Associate – London
+ LONDON, LONDON, United Kingdom
+Program Analysts & AssociateAssociates
+This is an exciting opportunity for a highly motivated individual to join a dynamic team and contribute to our Investment Banking business.
+
+
+
+J.P. Morgan Wealth Management - Private Client Advisor - Lake Zurich, IL
+ Lake Zurich, IL, United States
+Client ManagementAdvisors
+The branch-based Private Client Advisor offers comprehensive financial planning and advice to individuals and families
+
+
+
+J.P. Morgan Wealth Management - Private Client Advisor - McHenry and Wauconda, IL
+ McHenry, IL, United States and 1 more
+Client ManagementAdvisors
+The branch-based Private Client Advisor offers comprehensive financial planning and advice to individuals and families
+
+
+
+Software Engineer III- Front End- Web- JPM Personal Investing- Mid Level
+ LONDON, LONDON, United Kingdom
+TechnologySoftware Engineering
+Behind every investment is a person with ambitions, motivations and values. While we know that every client is unique,
+
+
+
+Client Data_Team Leader
+ Hyderabad, Telangana, India
+OperationsClient Data
+Leverage advanced analytical and investigative skills to drive accuracy, compliance, and process innovation in KYC operations.
+
+
+
+.
+Privacy & Terms
+Privacy & Security
+Terms of Use
+Cookie Policy
+.
+ 
+Equal Opportunities
+Recruitment Scams Warning
+.
+Useful Links
+chase.com
+jpmorganchase.com
+jpmorgan.com
+.
+ 
+Careers at Chase
+Careers in the Philippines
+© 2024 JPMorgan Chase & Co. All rights reserved.
+JPMorgan Chase & Co. is an equal opportunity employer and affirmative action employer Disability/Veteran.
+GLOBAL / 日本語 / 中文
+
+Page Lead Software Engineer - Regulatory Reporting - JPMC Candidate Experience page Careers loaded
+
